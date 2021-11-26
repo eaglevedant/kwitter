@@ -1,0 +1,150 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image:url("54e772b60661bfd8215f0646d9ebd63e.jpg")
+
+}
+#mew{
+	background-image:url("images\ \(2\).jpeg")
+
+}
+#lapras{
+	background-image:url("High_resolution_wallpaper_background_ID_77700947940.jpg	")
+
+}
+#fire{
+	background-image:url("10703123.jpg")
+
+}
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
+
+#style {
+	background-color: aqua;
+	color: red;
+	text-decoration: rgba(255,255,255,0.8);
+	text-align: center;
+	text-decoration-line: underline;
+}
+
+#okbac{
+	
+	background-color: yellow;
+	color: rgb(1, 39, 3);
+	text-decoration-color: indigo;
+    text-decoration-line: initial;
+}
+#jjjj{
+	background-color:aquamarine;
+	color:yellowgreen;
+	text-decoration-color:black;
+    text-decoration-line:underline;
+}
+#kiwe{
+	background-color: greenyellow;
+	color: blue;
+	text-decoration-line: inherit;
+	width: fit-content;
+	font-family: Arialblack;
+}
+#sup{
+	background-color:blue;
+	color:red;
+	text-decoration-line: inherit;
+	width: fit-content;
+	font-family:times;	
+}
+#dark{
+	background-color:green;
+	color:red;
+	text-decoration-line: inherit;
+	width: fit-content;
+	font-family:times;	
+ width: fill-container;
+}
